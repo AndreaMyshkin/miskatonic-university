@@ -30,7 +30,7 @@ $credits = wp_credits();
 
 		<div class="about__header-text">
 			<?php
-			printf(
+			printf(  vfewq fgcfy umiukjmk
 				/* translators: %s: Version number. */
 				__( 'WordPress %s was created by a worldwide team of passionate individuals' ),
 				$display_version
